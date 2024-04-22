@@ -31,7 +31,7 @@
     "react-swipeable-views": "^0.14.0",
     "redux-persist": "^6.0.0",
     "redux-saga": "^1.2.3",
-    "vite": "^5.0.2",
+    "vite": "^5.2.10",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
